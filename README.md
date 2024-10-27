@@ -3,10 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lbstacks&label=Profile%20views&color=0e75b6&style=flat" alt="lbstacks" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lbstacks" alt="lbstacks" /></a> </p>
-
-- 🔭 I’m currently working on **VistaLux**# 💫 About Me:
-🔭 I’m currently working on VistaLux: A Real Estate Marketplace<br>🤝 I’m looking for help with Telegram Mini Apps<br>🌱 I’m currently learning Django, Git<br>💬 Ask me about JavaScript<br>⚡ Fun fact "I’m a bit of a vault at first, but once I’m comfortable, the jokes come out like they’re on a mission!"
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lbstacks" alt="lb stacks" /></a> </p>
+💫 About Me:
+🔭 I’m currently working on VistaLux: A Real Estate Marketplace<br>
+🤝 I’m looking for help with Telegram Mini Apps<br>
+🌱 I’m currently learning Django, Git<br>💬 Ask me about JavaScript<br>
+⚡ Fun fact "I’m a bit of a vault at first, but once I’m comfortable, the jokes come out like they’re on a mission!"
 
 
 ## 🌐 Socials:
