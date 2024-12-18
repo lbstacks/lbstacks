@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on VistaLux: A Real Estate Marketplace<br>🤝 I’m looking for help with Telegram Mini Apps<br>🌱 I’m currently learning Django, Git<br>💬 Ask me about JavaScript<br>⚡ Fun fact "I’m a bit of a vault at first, but once I’m comfortable, the jokes come out like they’re on a mission!"
+🔭 I’m currently working on VistaLux: A Real Estate Marketplace and<br>
+🔭 I’m currently working on Smartpitch: An A.I CV builder and job finder <br>
+🤝 I’m looking for help with Telegram Mini Apps<br>🌱 I’m currently learning Django, Git<br>💬 Ask me about JavaScript<br>⚡ Fun fact "I’m a bit of a vault at first, but once I’m comfortable, the jokes come out like they’re on a mission!"
 
 
 ## 🌐 Socials:
